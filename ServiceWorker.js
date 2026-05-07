@@ -1,9 +1,9 @@
 const cacheName = "SPECStudio-60 BPM-1.0";
 const contentToCache = [
-    "Build/60BPM-Mobile-0.2.loader.js",
-    "Build/60BPM-Mobile-0.2.framework.js",
-    "Build/60BPM-Mobile-0.2.data",
-    "Build/60BPM-Mobile-0.2.wasm",
+    "Build/60BPM-Mobile-0.2.1.loader.js",
+    "Build/60BPM-Mobile-0.2.1.framework.js",
+    "Build/60BPM-Mobile-0.2.1.data",
+    "Build/60BPM-Mobile-0.2.1.wasm",
     "TemplateData/style.css"
 
 ];
